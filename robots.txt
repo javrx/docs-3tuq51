@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ds81so.privatetalks.online/sitemap.xml
